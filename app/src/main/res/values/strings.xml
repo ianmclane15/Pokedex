@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokedexTwo</string>
+    <string name="pokedex_logo">pokedex logo</string>
+    <string-array name="options">
+        <item>Pokemon</item>
+        <item>Type Chart</item>
+        <item>Region Map</item>
+    </string-array>
+</resources>
